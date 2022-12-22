@@ -1,0 +1,6 @@
+  10 points for each card moved to a foundation.
+   5 points for each card moved from the waste to a tableau.
+   5 points for each card turned face-up in a tableau.
+  -2 points for each 10 seconds elapsed.
+ -15 points for each card moved from a foundation to a tableau.
+-100 points for each pass through the deck

@@ -1,0 +1,6 @@
+The goal is to create a stack of cards from low to high in each of the four foundation piles.
+Each pile can contain only one suit beginning with Aces and ending with Kings.
+In tableau you must place cards in descending order while alternating suit colors.
+You can also move sequential runs of cards between columns.
+If there is an empty column in tableau you can put King there or any sequential stack with King at its head.
+If you get stuck try drawing cards from deck into the waste.
