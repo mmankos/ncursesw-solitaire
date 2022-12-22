@@ -3,8 +3,9 @@
 # EXCEPT THESE
 !*.c
 !*.h
-!*.txt
 !Makefile
+!pngs
 !pngs/*.png
+!*.txt
 !*.md
 !.gitignore
