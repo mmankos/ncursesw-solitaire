@@ -1,0 +1,10 @@
+# IGNORE THESE
+*
+# EXCEPT THESE
+!*.c
+!*.h
+!*.txt
+!Makefile
+!pngs/*.png
+!*.md
+!.gitignore
